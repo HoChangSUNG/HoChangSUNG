@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=HoChangSUNG&show_icons=true&hide_border=true)](https://github.com/HoChangSUNG)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoChangSUNG&layout=compact)](https://github.com/HoChangSUNG)
+## 💻 다 읽은 책 목록
+
+|[자바의 신](https://github.com/saseungmin/reading_books_record_repository/tree/master/summarize_books_in_markdown/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)|[최범균의 JSP 2.3](https://saseungmin.github.io/reading_books_record_repository/docs/agile/nature-of-software-development/table-of-contents)|[실습과 그림으로 배우는 리눅스 구조](https://saseungmin.github.io/reading_books_record_repository/docs/agile/clean-agile/table-of-contents)|
+|:---:|:---:|:---:|
+|<img src="images/functional-javascript.jpeg" width="300px" height="300px"/>|<img src="images/the-nature-of-software-development.jpeg" width="400px" height="300px"/>|<img src="images/Clean-Agile.jpeg" width="400px" height="300px"/>|
+
+## 📚 읽고 있는 책 목록
