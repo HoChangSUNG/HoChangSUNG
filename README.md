@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 - Effective Unit Testing [정리](https://github.com/HoChangSUNG/mentoring/tree/main/%EA%B3%B5%EB%B6%80%ED%95%9C%EA%B2%83/%ED%98%B8%EC%B0%BD/Effective%20Unit%20Testing)
 - 그림으로 배우는 네트워크 원리 [정리](https://github.com/HoChangSUNG/mentoring/tree/main/%EA%B3%B5%EB%B6%80%ED%95%9C%EA%B2%83/%ED%98%B8%EC%B0%BD/%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9B%90%EB%A6%AC)
 - 객체지향의 사실과 오해 [정리](https://github.com/HoChangSUNG/mentoring/tree/main/%EA%B3%B5%EB%B6%80%ED%95%9C%EA%B2%83/%ED%98%B8%EC%B0%BD/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4)
+- Effective Java [정리](https://github.com/HoChangSUNG/mentoring/tree/main/%EA%B3%B5%EB%B6%80%ED%95%9C%EA%B2%83/%ED%98%B8%EC%B0%BD/Effective%20Java)
 
 
 <br>
 
 ## 📚 읽고 있는 책 목록
-- Effective Java [정리](https://github.com/HoChangSUNG/mentoring/tree/main/%EA%B3%B5%EB%B6%80%ED%95%9C%EA%B2%83/%ED%98%B8%EC%B0%BD/Effective%20Java)
